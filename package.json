@@ -7,6 +7,9 @@
     "start": "node server",
     "dev": "nodemon server"
   },
+  "engines": {
+    "node": "14.x.x"
+  },
   "author": "Mert",
   "license": "MIT",
   "dependencies": {
