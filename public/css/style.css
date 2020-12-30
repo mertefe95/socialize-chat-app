@@ -13,11 +13,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Staatliches";
+  font-family: "Staatliches", cursive;
 }
 
 body {
-  font-family: "Staatliches", sans-serif;
+  font-family: "Staatliches", cursive;
   font-size: 1rem;
   background: var(--light-color);
   margin: 20px;
